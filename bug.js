@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my components.  The classes were defined in my Tailwind configuration file, and I was using them correctly in my components. However, they did not show up in the rendered HTML.  I checked my CSS file and the Tailwind classes weren't being included, indicating a problem in the build process.
